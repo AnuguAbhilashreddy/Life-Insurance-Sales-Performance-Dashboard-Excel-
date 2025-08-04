@@ -90,8 +90,9 @@ SUMIFS, IF, SWITCH, CHOOSE, XLOOKUP,VLOOKUP INDEX, XMATCH, VSTACK, TOROW, TAKE, 
 
 📂 Click here to view/download the Excel Dashboard(Upload your .xlsx file in the GitHub repo and link it here)
 
-📬 Connect with Me
+**📬 Connect with Me**
 
 🔗 LinkedIn –[click here](www.linkedin.com/in/abhilashreddyanugu)
+
 📁 More Projects on My GitHub [click here](https://github.com/AnuguAbhilashreddy?tab=repositories)
 
