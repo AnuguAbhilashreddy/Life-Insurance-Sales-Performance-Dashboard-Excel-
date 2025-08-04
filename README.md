@@ -1,4 +1,4 @@
-# Life-Insurance-Sales-Performance-Dashboard Excel
+# Sales-Performance-Dashboard Excel
 
 
 ## 🗉 Overview
